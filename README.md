@@ -1,4 +1,4 @@
-<h2 align="left">Hi :3 My im Abdalkarim and I'm a IT studeny who wanna learn gameDev and BackEnd ,Im also kinda silly .</h2>
+<h2 align="left">Hi :3, I'm Abdalkarim, and I'm an IT student who wants to learn Game Development and Backend Development. I'm also kinda silly.</h2>
 
 ###
 
