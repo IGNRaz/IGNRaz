@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ignraz/count.svg?"  />
+
 </div>
 
 ###
